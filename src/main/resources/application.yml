@@ -1,0 +1,16 @@
+#spring:
+#  mvc:
+#    view:
+#      suffix: .jsp
+#  datasource:
+#    url: jdbc:sqlserver://kavita-mydb.database.windows.net:1433;database=mydb1;encrypt=true;trustServerCertificate=false;hostNameInCertificate=*.database.windows.net;loginTimeout=30;
+#    username: kavita123
+#    password: Password@123
+#  jpa:
+#    show-sql: true
+#    hibernate:
+#      ddl-auto: update
+#      dialect : org.hibernate.dialect.SQLServer2012Dialect
+#
+#server:
+#  port: 9192
